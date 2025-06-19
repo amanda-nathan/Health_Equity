@@ -1,0 +1,38 @@
+county,condition,prevalence_rate,poverty_rate,median_income
+Barnstable,diabetes,11.09,1.52,90447
+Barnstable,obesity,25.44,1.52,90447
+Barnstable,stroke,3.73,1.52,90447
+Barnstable,heart,10.17,1.52,90447
+Barnstable,blood pressure,61.01,1.52,90447
+Berkshire,diabetes,10.7,3.14,69744
+Berkshire,obesity,29.13,3.14,69744
+Berkshire,stroke,3.85,3.14,69744
+Berkshire,heart,6.6,3.14,69744
+Berkshire,blood pressure,59.19,3.14,69744
+Bristol,diabetes,11.17,5.25,80628
+Bristol,obesity,33.24,5.25,80628
+Bristol,stroke,3.79,5.25,80628
+Bristol,heart,7.87,5.25,80628
+Bristol,blood pressure,52.52,5.25,80628
+Dukes,obesity,29.1,0.62,93225
+Dukes,heart,8.4,0.62,93225
+Dukes,blood pressure,55.7,0.62,93225
+Essex,diabetes,9.46,4.37,94378
+Essex,obesity,30.14,4.37,94378
+Essex,stroke,3.36,4.37,94378
+Essex,heart,8.19,4.37,94378
+Essex,blood pressure,57.09,4.37,94378
+Franklin,stroke,3.6,3.81,70383
+Hampden,obesity,37.4,6.49,66619
+Hampden,stroke,3.6,6.49,66619
+Hampshire,obesity,26.8,2.48,84025
+Hampshire,stroke,2.2,2.48,84025
+Middlesex,obesity,22.42,2.71,121304
+Middlesex,stroke,2.53,2.71,121304
+Norfolk,obesity,29.05,2.57,120621
+Norfolk,stroke,2.66,2.57,120621
+Plymouth,obesity,37.9,2.86,105387
+Plymouth,stroke,3.36,2.86,105387
+Suffolk,obesity,27.8,5.3,87669
+Suffolk,stroke,2.36,5.3,87669
+Worcester,stroke,3.35,4.06,88524
