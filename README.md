@@ -3,7 +3,9 @@
 Please note this writeup supports this notebook. To see visualizations you can go to # Massachusetts Health Equity Analysis - Key Findings
 
 **Please note:** This writeup supports the main [analysis notebook](https://github.com/amanda-nathan/Health_Equity/blob/main/MA_Health_Equity_workflow.ipynb). 
+
 **To view visualizations and maps**, please visit the notebook on nbviewer (GitHub doesn't render plots for this notebook):
+
 👉 **[View Full Analysis with Visualizations](https://nbviewer.org/github/amanda-nathan/Health_Equity/blob/main/MA_Health_Equity_workflow.ipynb)**
 
 
